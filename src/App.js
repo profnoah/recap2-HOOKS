@@ -2,8 +2,7 @@ import FlagApp from "./pages/FlagApp";
 
 function App() {
   return (
-    <div>
-      <h1>App</h1>
+    <div className="container text-center mt-5">
       <FlagApp />
     </div>
   );
